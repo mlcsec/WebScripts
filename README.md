@@ -1,2 +1,2 @@
 # WebScripts
-Python scripts for basic web vulns
+Scripts for web vulns
