@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# SQLi script I wrote for HTB machine flujab
+# SQLi script i wrote for HTB machine flujab
 
 import os
 import sys
