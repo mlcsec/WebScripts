@@ -1,3 +1,4 @@
+# written for web sec academy sqli
 import sys
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
