@@ -1,4 +1,3 @@
-# implement https://github.com/s0md3v/goop
 import sys
 from time import sleep
 from random import randint
