@@ -1,3 +1,4 @@
+# simple LFI wordlist generator for basic CTFs
 import sys
 
 f = sys.argv[1]
