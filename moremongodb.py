@@ -2,7 +2,7 @@ import sys
 import requests
 import string
 
-chars = list("-"+string.ascii_lowercase+string.digits)
+chars = list(string.ascii_lowercase+string.digits)
 password = ""
 
 def exploit(payload):
